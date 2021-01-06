@@ -1,5 +1,7 @@
+# hidden files
+.*
+!.github
+
+# jekyll cache
 _site
-.sass-cache
-node_modules
-Gemfile.lock
-*.gem
+vendor
